@@ -22,11 +22,11 @@ AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook
 ``/get - To Get the quotes``
 
 # HELP ME
-FOR ANY TYPE OF HELP OR ISSUES. YOU CAN CONTACT ME [HERE](https://telegram.me/induschats)
+FOR ANY TYPE OF HELP OR ISSUES. YOU CAN CONTACT ME [HERE](https://telegram.me/Nikhil5757h)
 
 #
 
 **PLEASE DO STAR AND FORK AND SUPPORT MY PROJRCT**
 
-**THANX TO [CW4RR10R](https://github.com/CW4RR10R) FOR HIS QUOTE API**
+**THANX TO [Ñ Î K H Î L](https://github.com/Nikhil5757h) FOR HIS QUOTE API**
 
