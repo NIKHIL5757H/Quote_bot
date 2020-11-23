@@ -7,7 +7,7 @@
         "Reading"
     ],
     "logo": "https://telegra.ph/file/1794c81b97fc30dcefeb2.png",
-    "repository": "https://github.com/Benchamxd/Quote-bot",
+    "repository": "https://github.com/NIKHIL5757H/Quote-bot",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
