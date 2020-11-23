@@ -1,8 +1,8 @@
 <?php
 /*
-BY:- @NGYNY
+BY:- @Nikhil5757h
 
-CHANNEL:- @super_botz
+CHANNEL:- @ProBotZ
 */
 error_reporting(0);
 
@@ -56,7 +56,7 @@ Use /get To get quotes***",
 ]);
 if($text == '/get'){
 
-$data = json_decode(file_get_contents("https://quotes.cwprojects.live/random"),true);
+$data = json_decode(file_get_contents("https://quotes.ProBotZ.live/random"),true);
 $text = $data['text'];
 $author = $data['author'];
 $tag = "#" . implode(" #", $data['tags']);
